@@ -1,4 +1,4 @@
-# linn_example
+# Linn Example
 Running Example of Linn
 
 ## Installation
