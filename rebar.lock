@@ -1,0 +1,4 @@
+[{<<"linn">>,
+  {git,"git@github.com:amoein/linn.git",
+       {ref,"477b569181d51ef582d1e0467cb5cb5f65086cf8"}},
+  0}].
